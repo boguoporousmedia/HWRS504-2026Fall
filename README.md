@@ -5,7 +5,7 @@ Notes:
 Missing a page.html & a home.html file in the _layout
 -->
 
-<h2>Numerical Methods for Environmental Transport Problems (University of Arizona) </h2>
+<h2>Numerical Methods and Scientific Machine Learning for Environmental Modeling (University of Arizona)</h2>
 
 
 <h3>1. Lecture time:</h3> 

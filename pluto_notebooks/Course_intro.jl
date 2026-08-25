@@ -56,7 +56,9 @@ end
 
 # ╔═╡ ce9c0405-5338-47bd-b252-36e5f3d139bd
 md"""
-# Course introduction
+# Numerical Methods and Scientific Machine Learning for Environmental Modeling
+
+## Course Introduction
 - **Overview**
 - **Review of linear algebra and vector calculus**
 - **Intro to Julia and Pluto**

@@ -9,7 +9,7 @@ using Plots, LaTeXStrings, PlutoUI, QuadGK, SpecialFunctions
 
 # ╔═╡ a51acd23-9915-4cac-8377-6283bb28fcd6
 md"""
-### HWRS 504: Numerical Methods
+### HWRS 504: Numerical Methods and Scientific Machine Learning for Environmental Modeling
 - **Instructor**: Prof. Bo Guo (boguo@arizona.edu)
 - **Term**: Fall 2026
 """

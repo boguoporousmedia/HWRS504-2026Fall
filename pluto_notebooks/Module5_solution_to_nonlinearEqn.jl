@@ -24,7 +24,7 @@ end
 
 # ╔═╡ 66071274-6d40-438a-88c3-412c12a9f96a
 md"""
-### HWRS 504: Numerical Methods
+### HWRS 504: Numerical Methods and Scientific Machine Learning for Environmental Modeling
 - **Instructor**: Prof. Bo Guo (boguo@arizona.edu)
 - **Term**: Fall 2026
 """
