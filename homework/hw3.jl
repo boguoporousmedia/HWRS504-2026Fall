@@ -8,7 +8,7 @@ using InteractiveUtils
 md"""
 ### Optional Practice 3
 
-- **Optional and ungraded:** No submission is required for Problems 1–3.
+- **Optional and ungraded:** No submission is required for Problems 1–2.
 
 - **Point values:** Indicate suggested effort only and do not contribute to the course grade.
 
@@ -139,28 +139,11 @@ is the complementary error function (available in Python and MATLAB).
 
 """
 
-# ╔═╡ cb289f54-6144-4b2a-b706-740c788a3646
-md"""
-#### **3. (10 points) Picard vs. Newton-Raphson**
-
-Read the paper:
-**Celia, M.A., Bouloutas, E.T., and Zarba, R.L. (1990)**
-*A general mass-conservative numerical solution for the unsaturated flow equation.*
-*Water Resources Research*, 26(7), 1483–1496.
-
-Answer in your own words:
-
-(a) What is Picard iteration? How is it different from the Newton–Raphson iteration? What are the advantages and disadvantages?
-
-(b) Why is mass not conserved numerically when schemes other than the one by Celia et al. (1990) are used?
-
-"""
-
 # ╔═╡ ff977d2e-d27d-4470-8cc9-1b4e71869b27
 md"""
-#### **4. Final Project Proposal (Required Ungraded Milestone)**
+#### **3. Final Project Proposal (Required Ungraded Milestone)**
 
-This proposal is a required milestone within the final project, even though Problems 1–3 are optional practice. Propose a term project problem that is:
+This proposal is a required milestone within the final project, even though Problems 1–2 are optional practice. Propose a term project problem that is:
 
 * Challenging (several weeks of effort)
 * Related to numerical modeling but not identical to your existing research
@@ -173,8 +156,6 @@ The final deliverables:
 Examples of topics:
 
 * Contaminant transport with nonlinear reactions (e.g., biodegradation)
-* Modeling flow in unsaturated soils
-* Employ deep learning methods to solve PDEs in your field (e.g., Richards equation)
 
 For the project proposal, provide:
 
@@ -203,7 +184,6 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 # ╟─ea254018-4624-49c5-9761-33215b35f6b5
 # ╟─77601700-a3cb-11f0-22ea-0152abc5511e
 # ╟─4f7967b5-f78e-469c-b092-96901bcfc170
-# ╟─cb289f54-6144-4b2a-b706-740c788a3646
 # ╟─ff977d2e-d27d-4470-8cc9-1b4e71869b27
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
