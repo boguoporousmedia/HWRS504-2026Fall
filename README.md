@@ -45,13 +45,9 @@ Missing a page.html & a home.html file in the _layout
 >
 > **Final Project**
 >
-> The final project is required for all students.
-> 
-> Students will have two options for the final project: 
-> - (1) Choose a journal paper that has a core contribution on a numerical method, understand the advancement of the numerical methods developed in the paper, implement the method and reproduce the key results, and apply the numerical method to some new example problems.
-> - (2) Choose a research problem in their own field of interest and apply the numerical methods they have learned in the course to solve the chosen problem.
+> The final project is required for all students and has one format. Each student will choose a research problem in their field of interest and develop a solution that fully leverages the relevant numerical and scientific machine-learning methods covered in the course. The project should justify the selected methods, implement them correctly, and evaluate the solution through appropriate verification, validation, or comparison.
 >
-> For either option, the required deliverables are a project proposal, a formal report, and an in-class presentation. Project presentations are tentatively scheduled for Tuesday, December 1, 2026. The final report is due Monday, December 14, 2026, at 5:30 pm.
+> The required deliverables are a project proposal, a formal report, and an in-class presentation. Project presentations are tentatively scheduled for Tuesday, December 1, 2026. The final report is due Monday, December 14, 2026.
 >
 > Graduate projects are expected to include greater methodological depth, validation, and critical analysis than undergraduate projects.
 > 

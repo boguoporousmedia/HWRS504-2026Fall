@@ -99,6 +99,11 @@ L = 1, \quad V = 1, \quad D = 0.01, \quad K = 0.0001.
 **Verification:**
 Compare your numerical results with the analytical solution.
 
+"""
+
+# ╔═╡ 0cb7266c-1f6b-4f98-a33f-efce9f675e27
+md"""
+
 ---
 **Hints**
 
@@ -146,7 +151,8 @@ md"""
 This proposal is a required milestone within the final project, even though Problems 1–2 are optional practice. Propose a term project problem that is:
 
 * Challenging (several weeks of effort)
-* Related to numerical modeling but not identical to your existing research
+* A research problem in your field of interest
+* Designed to fully leverage the relevant numerical and scientific machine-learning methods covered in the course
 
 The final deliverables:
 
@@ -160,7 +166,8 @@ Examples of topics:
 For the project proposal, provide:
 
 * Your proposed topic
-* A short description of your intended approach or method
+* A short description of the methods you intend to use and why they are appropriate
+* Your plan for verifying, validating, or comparing the solution
 
 """
 
@@ -184,6 +191,7 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 # ╟─ea254018-4624-49c5-9761-33215b35f6b5
 # ╟─77601700-a3cb-11f0-22ea-0152abc5511e
 # ╟─4f7967b5-f78e-469c-b092-96901bcfc170
+# ╟─0cb7266c-1f6b-4f98-a33f-efce9f675e27
 # ╟─ff977d2e-d27d-4470-8cc9-1b4e71869b27
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
