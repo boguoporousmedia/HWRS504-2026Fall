@@ -11,7 +11,7 @@ using Plots, LaTeXStrings , PlutoUI
 md"""
 ### HWRS 504: Numerical Methods
 - **Instructor**: Prof. Bo Guo (boguo@arizona.edu)
-- **Term**: Fall 2025
+- **Term**: Fall 2026
 """
 
 # ╔═╡ 370cd200-a39f-11f0-1577-f33185318fad

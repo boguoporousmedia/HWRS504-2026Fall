@@ -2,10 +2,10 @@
 title: Week 13
 ---
 
-Nov 18
+Nov 17
 : Neural ODE
   : [Pluto Notebook](../assets/pluto_notebooks/Module14_neural_ODE.html)
 
-Nov 20
+Nov 19
 : KAN
   : [Pluto Notebook](../assets/pluto_notebooks/Module15_KAN.html)

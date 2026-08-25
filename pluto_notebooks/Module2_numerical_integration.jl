@@ -11,7 +11,7 @@ using Plots, LaTeXStrings, PlutoUI, QuadGK, SpecialFunctions
 md"""
 ### HWRS 504: Numerical Methods
 - **Instructor**: Prof. Bo Guo (boguo@arizona.edu)
-- **Term**: Fall 2025
+- **Term**: Fall 2026
 """
 
 # ╔═╡ e34e84c4-7eca-11f0-20bb-6ff86d3d3926

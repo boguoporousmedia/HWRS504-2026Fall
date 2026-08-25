@@ -2,4 +2,4 @@
 title: "Lecture #31: Final Project Presentation"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Dec 9, 3:30 pm – 4:45 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Dec 8, 2:00 pm – 3:15 pm (Bo Guo)

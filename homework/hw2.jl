@@ -9,11 +9,14 @@ using LaTeXStrings
 
 # ╔═╡ 7c59dcf2-8e04-11f0-2712-49a020c07790
 md"""
-## Homework 2  
-- Assigned: Thursday, 11 September 2025  
-- Due: Tuesday, 23 September 2025  
-- Instructor: Bo Guo, University of Arizona  
-- Semester: Fall 2025
+## Homework 2
+- Assigned: Thursday, 10 September 2026
+
+- Due: Tuesday, 22 September 2026
+
+- Instructor: Bo Guo, University of Arizona
+
+- Semester: Fall 2026
 """
 
 # ╔═╡ e910408d-b9c6-45f8-ab32-1ffcc0dc5302

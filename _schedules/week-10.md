@@ -2,9 +2,9 @@
 title: Week 10
 ---
 
-Oct 28
+Oct 27
 : Midterm Exam (Oral)
 
-Oct 30
+Oct 29
 : PINN
-  : [Pluto Notebook](../assets/Module11_PINN.html)
+  : [Pluto Notebook](../assets/pluto_notebooks/Module11_PINN.html)

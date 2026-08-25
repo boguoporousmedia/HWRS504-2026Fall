@@ -2,6 +2,6 @@
 title: "Lecture #03: Numerical Integration"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Sep 2, 3:30 pm – 4:45 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Sep 1, 2:00 pm – 3:15 pm (Bo Guo)
 
 - [Pluto Notebook](../assets/pluto_notebooks/Module2_numerical_integration.html)

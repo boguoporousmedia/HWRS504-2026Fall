@@ -1,7 +1,7 @@
 ---
-title: "Lecture #20: Neural networks"
+title: "Lecture #20: PINN"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Oct 30, 3:30 pm – 4:45 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu, Oct 29, 2:00 pm – 3:15 pm (Bo Guo)
 
-- [Pluto Notebook](../assets/pluto_notebooks/Module10_Neural_Networks_2.html)
+- [Pluto Notebook](../assets/pluto_notebooks/Module11_PINN.html)

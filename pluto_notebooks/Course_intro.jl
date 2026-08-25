@@ -166,39 +166,39 @@ md"""
 
 | Week | Date   | Topic                                                     | Readings             | Problem Sets    |
 |------|--------|-----------------------------------------------------------|----------------------|-----------------|
-| 1    | 8/26   | Course introduction<br>Review: linear algebra, vector calculus | CG: Appendix A       | Release #1      |
-|      | 8/28   | Intro to Julia & Interpolation                            |                      |                 |
-| 2    | 9/2    | Interpolation                                             | Gerritsen: Ch1       |                 |
-|      | 9/4    | Numerical integration                                     | Gerritsen: Ch3       | #1 DUE          |
-| 3    | 9/9    | FDA in space                                              | CG: Ch2              |                 |
-|      | 9/11   | FDA in space                                              | CG: Ch2              | Release #2      |
-| 4    | 9/16   | FDA in space                                              | CG: Ch2              |                 |
-|      | 9/18   | FDA for initial value problems                            | Moin: Ch4             |                 |
-| 5    | 9/23   | Stability analysis                                        | Moin: Ch4             | #2 DUE          |
-|      | 9/25   | Stability analysis                                        | Moin: Ch4             |                 |
-| 6    | 9/30   | Nonlinear equations                                       | Heath: Ch5            | Release #3      |
-|      | 10/2   | Nonlinear equations                                       | Heath: Ch5            |                 |
-| 7    | 10/7   | Fourier stability analysis                                | CG: Ch4               |                 |
-|      | 10/9   | Fourier stability analysis                                | CG: Ch4               | #3 DUE          |
-| 8    | 10/14  | Fourier stability analysis                                | CG: Ch4               |                 |
-|      | 10/16  | Particle methods                                          | Pollock 1988          | Release #4      |
-| 9    | 10/21  | Richards Equation                                         | Celia 1990            |                 |
-|      | 10/23  | Richards Equation                                         |                      |                 |
-| 10   | 10/28  | **Midterm Exam (Oral)**                                   |                      | #4 DUE          |
-|      | 10/30  | PINN                                                      |                      |                 |
-| 11   | 11/4   | PINN                                                      | Chen 2019             |                 |
-|      | 11/6   | PINN                                                      | Hasani 2022           | Release #5      |
-| 12   | 11/11  | Operator-learning Surrogates                              |                      |                 |
-|      | 11/13  | Operator-learning Surrogates                              |                      |                 |
-| 13   | 11/18  | Operator-learning Surrogates                              |                      | #5 DUE          |
-|      | 11/20  | Hybrid Modeling & Differentiable Simulators               |                      |                 |
-| 14   | 11/25  | Hybrid Modeling & Differentiable Simulators               |                      | Release #6      |
-|      | 11/27  | _Thanksgiving recess (No class)_                          |                      |                 |
-| 15   | 12/2   | Hybrid Modeling & Differentiable Simulators               |                      |                 |
-|      | 12/4   | Review session for final exam                             |                      | #6 DUE          |
-| 16   | 12/9   | Final project presentation                                |                      |                 |
-|      | 12/11  | _Reading day (No class)_                                  |                      |                 |
-| 17   | 12/16  | **Final Exam (Written)**                                  |                      |                 |
+| 1    | 8/25   | Course introduction<br>Review: linear algebra, vector calculus | CG: Appendix A       | Release #1      |
+|      | 8/27   | Intro to Julia & Interpolation                            |                      |                 |
+| 2    | 9/1    | Interpolation                                             | Gerritsen: Ch1       |                 |
+|      | 9/3    | Numerical integration                                     | Gerritsen: Ch3       | #1 DUE          |
+| 3    | 9/8    | FDA in space                                              | CG: Ch2              |                 |
+|      | 9/10   | FDA in space                                              | CG: Ch2              | Release #2      |
+| 4    | 9/15   | FDA in space                                              | CG: Ch2              |                 |
+|      | 9/17   | FDA for initial value problems                            | Moin: Ch4            |                 |
+| 5    | 9/22   | Stability analysis                                        | Moin: Ch4            | #2 DUE          |
+|      | 9/24   | Stability analysis                                        | Moin: Ch4            |                 |
+| 6    | 9/29   | Nonlinear equations                                       | Heath: Ch5           | Release #3      |
+|      | 10/1   | Nonlinear equations                                       | Heath: Ch5           |                 |
+| 7    | 10/6   | Fourier stability analysis                                | CG: Ch4              |                 |
+|      | 10/8   | Fourier stability analysis                                | CG: Ch4              | #3 DUE          |
+| 8    | 10/13  | Fourier stability analysis                                | CG: Ch4              |                 |
+|      | 10/15  | Particle methods                                          | Pollock 1988         | Release #4      |
+| 9    | 10/20  | Richards Equation                                         | Celia 1990           |                 |
+|      | 10/22  | Richards Equation                                         |                      |                 |
+| 10   | 10/27  | **Midterm Exam (Oral)**                                   |                      | #4 DUE          |
+|      | 10/29  | PINN                                                      |                      |                 |
+| 11   | 11/3   | PINN                                                      | Chen 2019            |                 |
+|      | 11/5   | PINN                                                      | Hasani 2022          | Release #5      |
+| 12   | 11/10  | Operator-learning Surrogates                              |                      |                 |
+|      | 11/12  | Operator-learning Surrogates                              |                      |                 |
+| 13   | 11/17  | Operator-learning Surrogates                              |                      | #5 DUE          |
+|      | 11/19  | Hybrid Modeling & Differentiable Simulators               |                      |                 |
+| 14   | 11/24  | Hybrid Modeling & Differentiable Simulators               |                      | Release #6      |
+|      | 11/26  | _Thanksgiving recess (No class)_                          |                      |                 |
+| 15   | 12/1   | Hybrid Modeling & Differentiable Simulators               |                      |                 |
+|      | 12/3   | Review session for final exam                             |                      | #6 DUE          |
+| 16   | 12/8   | Final project presentation                                |                      |                 |
+|      | 12/10  | _Reading day (No class)_                                  |                      |                 |
+| 17   | 12/14  | **Final Exam (Written), 3:30–5:30 pm**                  |                      |                 |
 """
 
 

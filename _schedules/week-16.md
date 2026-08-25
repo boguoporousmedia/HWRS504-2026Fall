@@ -2,8 +2,8 @@
 title: Week 16
 ---
 
-Dec 9
+Dec 8
 : Final Project Presentation
 
-Dec 11
+Dec 10
 : Reading Day (No Class)

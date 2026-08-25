@@ -16,9 +16,9 @@
 title: HWRS 504
 tagline: Course websites
 description: A course website for HWRS 504 Numerical Methods at the University of Arizona
-author: Bo Guo and Jianwen Du
-# baseurl: '/boguoporousmediab/HWRS504-2025Fall' # the subpath of your site, e.g. /blog
-url: 'https://github.com/boguoporousmedia/HWRS504-2025Fall'  
+author: Bo Guo
+# baseurl: '/boguoporousmediab/HWRS504-2026Fall' # the subpath of your site, e.g. /blog
+url: 'https://github.com/boguoporousmedia/HWRS504-2026Fall'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -33,7 +33,7 @@ aux_links:
 # Sidian Chen:
 #   - 'https://sidianchen.github.io/'
   HWRS 504 on GitHub:
-    - 'https://github.com/boguoporousmedia/HWRS504-2025Fall'
+    - 'https://github.com/boguoporousmedia/HWRS504-2026Fall'
 footer_content:
 
 # Collections for website data

@@ -11,13 +11,13 @@ md"""
 
 # ╔═╡ a34e3683-fe10-4277-9ef3-9d0ce0c92717
 md"""
-- Assigned: Thursday, 28 August 2025
+- Assigned: Thursday, 27 August 2026
 
-- Due: Thursday, 4 September 2025
+- Due: Thursday, 3 September 2026
 
 - Instructor: Bo Guo, University of Arizona
 
-- Semester: Fall 2025
+- Semester: Fall 2026
 
 - **NOTE**: Read Appendix A of CG and Appendix A of Moin (both uploaded to D2L) before working on the homework.
 """

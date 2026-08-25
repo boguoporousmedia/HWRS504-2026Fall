@@ -11,11 +11,10 @@ md"""
 
 ### HWRS 504 – Numerical Methods for Environmental Transport Problems
 
-- Date: December 16, 2025
-- Time: 2 PM – 4 PM
+- Date: December 14, 2026
+- Time: 3:30–5:30 pm
 - Location: Harshbarger 203
 - Instructor: Bo Guo
-- TA: Jianwen Du
 """
 
 # ╔═╡ a0aa816c-ff0c-441d-b142-d7c603cd3fe3

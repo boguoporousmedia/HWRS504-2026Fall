@@ -17,7 +17,7 @@ end
 md"""
 ### HWRS 504: Numerical Methods
 - **Instructor**: Prof. Bo Guo (boguo@arizona.edu)
-- **Term**: Fall 2025
+- **Term**: Fall 2026
 """
 
 # ╔═╡ cf29b19a-aedf-11f0-9620-41b67480ef6b

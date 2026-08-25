@@ -8,13 +8,13 @@ using InteractiveUtils
 md"""
 ### Homework 3
 
-- **Assigned:** Tuesday, 7 October 2025  
+- **Assigned:** Tuesday, 6 October 2026
 
-- **Due:** Friday, 17 October 2025  
+- **Due:** Friday, 16 October 2026
 
-- **Instructor:** Bo Guo, University of Arizona  
+- **Instructor:** Bo Guo, University of Arizona
 
-- **Semester:** Fall 2025  
+- **Semester:** Fall 2026
 
 ---
 """
