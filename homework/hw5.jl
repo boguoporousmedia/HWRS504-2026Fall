@@ -6,7 +6,9 @@ using InteractiveUtils
 
 # ╔═╡ 858117aa-c048-11f0-9ed0-91cbbc7e6472
 md"""
-# Homework 5: Operator learning
+# Optional Practice 5: Operator Learning
+
+Optional and ungraded. No submission is required. Complete any problems that support your learning or final project.
 """
 
 # ╔═╡ 83455544-e401-4a91-ae22-9e7ee972be3c

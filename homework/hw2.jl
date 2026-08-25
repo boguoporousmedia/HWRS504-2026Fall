@@ -9,10 +9,10 @@ using LaTeXStrings
 
 # ╔═╡ 7c59dcf2-8e04-11f0-2712-49a020c07790
 md"""
-## Homework 2
-- Assigned: Thursday, 10 September 2026
+## Optional Practice 2
+- Optional and ungraded. No submission is required.
 
-- Due: Tuesday, 22 September 2026
+- Point values indicate suggested effort only and do not contribute to the course grade.
 
 - Instructor: Bo Guo, University of Arizona
 

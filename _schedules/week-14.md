@@ -3,9 +3,8 @@ title: Week 14
 ---
 
 Nov 24
-: Diffusion Model
-  : [Pluto Notebook](../assets/pluto_notebooks/Module16_diffusion_model.html)
-: **Due**{: .label .label-purple}[**HW #4**](#)
+: Topic TBD
+: **Suggested completion**{: .label .label-purple} **Optional Practice #4**
 
 Nov 26
 : Thanksgiving Recess (No Class)

@@ -3,8 +3,9 @@ title: Week 10
 ---
 
 Oct 27
-: Midterm Exam (Oral)
+: Operator Learning
+  : [Pluto Notebook](../assets/pluto_notebooks/Module12_neural_operator_learning.html)
 
 Oct 29
-: PINN
-  : [Pluto Notebook](../assets/pluto_notebooks/Module11_PINN.html)
+: Hybrid Modeling
+  : [Pluto Notebook](../assets/pluto_notebooks/Module13_hybrid_modeling.html)

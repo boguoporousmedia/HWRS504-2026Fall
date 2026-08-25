@@ -37,37 +37,32 @@ Missing a page.html & a home.html file in the _layout
 > - MATH 254 (Differential Equations) or with permission of the instructor.
 
 
-<h3>6. Assignments and Exams:</h3>
+<h3>6. Optional Practice and Final Project:</h3>
 
-> **Homework Problem Sets**
-> 
-> Five problem sets will be assigned throughout the semester, due in one or two weeks after release. When submitting on D2L, convert your file to PDF and name it as *Last_name_HW1*. For example, *Guo_HW1.pdf*. Whether you type or handwrite, the text and figures need to be readable to an average human being. Nonreadable homework will be returned without grading. See [Schedule](https://boguoporousmedia.github.io/HWRS504-2026Fall/schedule/) for the specific dates.
-> 
-> **Exams**
-> 
-> The class has mid-term and final exams. The mid-term is oral and the final is written. The final exam is Monday, December 14, 2026, from 3:30 to 5:30 pm. A review session will be scheduled before both exams.
-> 
-> **Final Project:** *Only required for students who take the graduate version of the class HWRS 504.*
+> **Optional Practice Problems**
+>
+> Practice problems will be provided throughout the semester. They are optional, ungraded, and do not require submission. Suggested completion dates are included in the [Schedule](https://boguoporousmedia.github.io/HWRS504-2026Fall/schedule/) to help students pace their learning.
+>
+> **Final Project**
+>
+> The final project is required for all students.
 > 
 > Students will have two options for the final project: 
 > - (1) Choose a journal paper that has a core contribution on a numerical method, understand the advancement of the numerical methods developed in the paper, implement the method and reproduce the key results, and apply the numerical method to some new example problems.
-> - (2) Choose a research problem in their own filed of interest and apply the numerical methods they have learned in the course to solve the chosen problem. 
-> 
-> For either option, you will need to summarize your key findings in a formal report and deliver a presentation in class.
+> - (2) Choose a research problem in their own field of interest and apply the numerical methods they have learned in the course to solve the chosen problem.
+>
+> For either option, the required deliverables are a project proposal, a formal report, and an in-class presentation. Project presentations are tentatively scheduled for Tuesday, December 1, 2026. The final report is due Monday, December 14, 2026, at 5:30 pm.
+>
+> Graduate projects are expected to include greater methodological depth, validation, and critical analysis than undergraduate projects.
 > 
 >
 <h3>7. Course Grade:</h3>
 
-> **Evaluation and Grading for HWRS 404 (Undergraduate)**
-> - 55% Homework Problem Sets
-> - 40% Exams (20% each)
-> - 5% Class Participation
-> 
-> **Evaluation and Grading for HWRS 504 (Graduate)**
-> - 35% Homework Problem Sets
-> - 40% Exams (20% each)
-> - 20% Final Project (Final Report and Class Presentation)
-> - 5% Class Participation
+> **Evaluation and Grading for HWRS 404/504**
+> - 70% Final Project (report and presentation)
+> - 30% Class Participation
+>
+> There are no other graded components.
 >
 >   
 > **Grading Scheme:**

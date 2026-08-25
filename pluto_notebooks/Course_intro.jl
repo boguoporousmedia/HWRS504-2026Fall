@@ -164,41 +164,41 @@ md"""
 md"""
 **SCHEDULE OF TOPICS**
 
-| Week | Date   | Topic                                                     | Readings             | Problem Sets    |
+| Week | Date   | Topic                                                     | Readings             | Optional Practice |
 |------|--------|-----------------------------------------------------------|----------------------|-----------------|
-| 1    | 8/25   | Course introduction<br>Review: linear algebra, vector calculus | CG: Appendix A       | Release #1      |
+| 1    | 8/25   | Course introduction<br>Review: linear algebra, vector calculus | CG: Appendix A       | #1 available    |
 |      | 8/27   | Intro to Julia & Interpolation                            |                      |                 |
 | 2    | 9/1    | Interpolation                                             | Gerritsen: Ch1       |                 |
-|      | 9/3    | Numerical integration                                     | Gerritsen: Ch3       | #1 DUE          |
+|      | 9/3    | Numerical integration                                     | Gerritsen: Ch3       | Suggested: #1   |
 | 3    | 9/8    | FDA in space                                              | CG: Ch2              |                 |
-|      | 9/10   | FDA in space                                              | CG: Ch2              | Release #2      |
+|      | 9/10   | FDA in space                                              | CG: Ch2              | #2 available    |
 | 4    | 9/15   | FDA in space                                              | CG: Ch2              |                 |
 |      | 9/17   | FDA for initial value problems                            | Moin: Ch4            |                 |
-| 5    | 9/22   | Stability analysis                                        | Moin: Ch4            | #2 DUE          |
+| 5    | 9/22   | Stability analysis                                        | Moin: Ch4            | Suggested: #2   |
 |      | 9/24   | Stability analysis                                        | Moin: Ch4            |                 |
-| 6    | 9/29   | Nonlinear equations                                       | Heath: Ch5           | Release #3      |
+| 6    | 9/29   | Nonlinear equations                                       | Heath: Ch5           |                 |
 |      | 10/1   | Nonlinear equations                                       | Heath: Ch5           |                 |
-| 7    | 10/6   | Fourier stability analysis                                | CG: Ch4              |                 |
-|      | 10/8   | Fourier stability analysis                                | CG: Ch4              | #3 DUE          |
-| 8    | 10/13  | Fourier stability analysis                                | CG: Ch4              |                 |
-|      | 10/15  | Particle methods                                          | Pollock 1988         | Release #4      |
-| 9    | 10/20  | Richards Equation                                         | Celia 1990           |                 |
-|      | 10/22  | Richards Equation                                         |                      |                 |
-| 10   | 10/27  | **Midterm Exam (Oral)**                                   |                      | #4 DUE          |
-|      | 10/29  | PINN                                                      |                      |                 |
-| 11   | 11/3   | PINN                                                      | Chen 2019            |                 |
-|      | 11/5   | PINN                                                      | Hasani 2022          | Release #5      |
-| 12   | 11/10  | Operator-learning Surrogates                              |                      |                 |
-|      | 11/12  | Operator-learning Surrogates                              |                      |                 |
-| 13   | 11/17  | Operator-learning Surrogates                              |                      | #5 DUE          |
-|      | 11/19  | Hybrid Modeling & Differentiable Simulators               |                      |                 |
-| 14   | 11/24  | Hybrid Modeling & Differentiable Simulators               |                      | Release #6      |
+| 7    | 10/6   | Neural networks                                           |                      | #3 available    |
+|      | 10/8   | Neural networks                                           |                      |                 |
+| 8    | 10/13  | Final project planning workshop                           |                      |                 |
+|      | 10/15  | Physics-informed neural networks                          |                      | Suggested: #3   |
+| 9    | 10/20  | Physics-informed neural networks                          |                      |                 |
+|      | 10/22  | Operator learning                                         |                      |                 |
+| 10   | 10/27  | Operator learning                                         |                      |                 |
+|      | 10/29  | Hybrid modeling                                           |                      |                 |
+| 11   | 11/3   | Neural ODE                                                |                      |                 |
+|      | 11/5   | Kolmogorov-Arnold networks                                |                      |                 |
+| 12   | 11/10  | Diffusion models                                          |                      | #4 available    |
+|      | 11/12  | Topic TBD                                                 |                      |                 |
+| 13   | 11/17  | Topic TBD                                                 |                      |                 |
+|      | 11/19  | Topic TBD                                                 |                      |                 |
+| 14   | 11/24  | Topic TBD                                                 |                      | Suggested: #4   |
 |      | 11/26  | _Thanksgiving recess (No class)_                          |                      |                 |
-| 15   | 12/1   | Hybrid Modeling & Differentiable Simulators               |                      |                 |
-|      | 12/3   | Review session for final exam                             |                      | #6 DUE          |
-| 16   | 12/8   | Final project presentation                                |                      |                 |
+| 15   | 12/1   | Final project presentations (tentative)                    |                      |                 |
+|      | 12/3   | _Instructor travel (No class)_                            |                      |                 |
+| 16   | 12/8   | _Instructor travel (No class)_                            |                      |                 |
 |      | 12/10  | _Reading day (No class)_                                  |                      |                 |
-| 17   | 12/14  | **Final Exam (Written), 3:30–5:30 pm**                  |                      |                 |
+| 17   | 12/14  | **Final project report due, 5:30 pm**                     |                      |                 |
 """
 
 
@@ -212,18 +212,11 @@ md"""
 
 **Grading:**
 
-*Undergraduate students (HWRS 404)*  
-- Homework — 55%  
-- Midterm exam — 20%  
-- Final exam — 20%  
-- Participation — 5%  
+*HWRS 404/504*
+- Final project (report and presentation) — 70%
+- Participation — 30%
 
-*Graduate students (HWRS/CE 504)*  
-- Homework — 35%  
-- Midterm exam — 20%  
-- Final exam — 20%  
-- Final project — 20%  
-- Participation — 5%  
+There are no other graded components. Practice problems are optional, ungraded, and do not require submission. The final project is required for all students. Graduate projects are expected to include greater methodological depth, validation, and critical analysis than undergraduate projects.
 """
 
 
@@ -461,7 +454,7 @@ md"""
 
 # ╔═╡ e883afaf-dfdb-4b18-9fac-302e7122d8f1
 md"""
-- **Linear algebra**: Read the Appendix of Moin book uploaded on D2L (you will work on problems in your homework #1)  
+- **Linear algebra**: Read the Appendix of Moin book uploaded on D2L (you can work on related problems in Optional Practice #1)
 
 - **Notations from vector calculus**  
 

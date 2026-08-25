@@ -12,7 +12,7 @@ description: Policy.
 > - If you feel sick, or may have been in contact with someone who is infectious, stay home. Except for seeking medical care, avoid contact with others and do not travel.
 > - Notify your instructor(s) if you will be missing a course meeting or an assignment deadline.
 > 
-> - Non-attendance for any reason does not guarantee an automatic extension of due date or rescheduling of examinations/assessments.
+> - Non-attendance for any reason does not guarantee an automatic extension of a due date or rescheduling of an assessment.
 > 
 >  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Please communicate and coordinate any request directly with your instructor(s).*
 > 
@@ -73,4 +73,4 @@ description: Policy.
 > - Accessibility and Accommodations Policy 
 > - Code of Academic Integrity 
 > - Nondiscrimination and Anti-Harassment Policy 
-> - Subject to Change Statement 
+> - Subject to Change Statement

@@ -6,11 +6,11 @@ using InteractiveUtils
 
 # ╔═╡ ea254018-4624-49c5-9761-33215b35f6b5
 md"""
-### Homework 3
+### Optional Practice 3
 
-- **Assigned:** Tuesday, 6 October 2026
+- **Optional and ungraded:** No submission is required for Problems 1–3.
 
-- **Due:** Friday, 16 October 2026
+- **Point values:** Indicate suggested effort only and do not contribute to the course grade.
 
 - **Instructor:** Bo Guo, University of Arizona
 
@@ -158,17 +158,17 @@ Answer in your own words:
 
 # ╔═╡ ff977d2e-d27d-4470-8cc9-1b4e71869b27
 md"""
-#### **4. (10 points) Term project proposal**
+#### **4. Final Project Proposal (Required Ungraded Milestone)**
 
-Propose a term project problem that is:
+This proposal is a required milestone within the final project, even though Problems 1–3 are optional practice. Propose a term project problem that is:
 
 * Challenging (several weeks of effort)
 * Related to numerical modeling but not identical to your existing research
 
 The final deliverables:
 
-* Written report (5–10 pages) due in the last week of the semester
-* Oral presentation (date TBD)
+* Written report (5–10 pages) due Monday, December 14, 2026, at 5:30 pm
+* Oral presentation tentatively scheduled for class Tuesday, December 1, 2026
 
 Examples of topics:
 
@@ -176,7 +176,7 @@ Examples of topics:
 * Modeling flow in unsaturated soils
 * Employ deep learning methods to solve PDEs in your field (e.g., Richards equation)
 
-For this homework, provide:
+For the project proposal, provide:
 
 * Your proposed topic
 * A short description of your intended approach or method

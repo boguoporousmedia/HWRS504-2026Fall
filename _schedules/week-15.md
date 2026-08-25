@@ -3,8 +3,7 @@ title: Week 15
 ---
 
 Dec 1
-: Some common neural network architectures
-  : [Pluto Notebook](../assets/pluto_notebooks/Module17_neural_network_architecture.html)
+: Final Project Presentations (Tentative)
 
 Dec 3
-: Review Session for Final Exam
+: Instructor Travel (No Class)

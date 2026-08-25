@@ -3,7 +3,7 @@ title: Week 16
 ---
 
 Dec 8
-: Final Project Presentation
+: Instructor Travel (No Class)
 
 Dec 10
 : Reading Day (No Class)

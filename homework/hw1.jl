@@ -6,20 +6,20 @@ using InteractiveUtils
 
 # ╔═╡ fd6d7bee-848b-11f0-1db7-c1791ffa18bf
 md"""
-# Homework 1
+# Optional Practice 1
 """
 
 # ╔═╡ a34e3683-fe10-4277-9ef3-9d0ce0c92717
 md"""
-- Assigned: Thursday, 27 August 2026
+- Optional and ungraded. No submission is required.
 
-- Due: Thursday, 3 September 2026
+- Point values, where shown, indicate suggested effort only and do not contribute to the course grade.
 
 - Instructor: Bo Guo, University of Arizona
 
 - Semester: Fall 2026
 
-- **NOTE**: Read Appendix A of CG and Appendix A of Moin (both uploaded to D2L) before working on the homework.
+- **NOTE**: Read Appendix A of CG and Appendix A of Moin (both uploaded to D2L) before working on this practice set.
 """
 
 # ╔═╡ 3b5eb3dc-b3d1-4bf9-9a83-1ba4e20b5f92

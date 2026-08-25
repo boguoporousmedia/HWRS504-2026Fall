@@ -9,4 +9,4 @@ Aug 25
 Aug 27
 : Interpolation
   : [Pluto Notebook](../assets/pluto_notebooks/Module1_interpolation.html)
-: **Release**{: .label .label-green} **HW #1** ([Notebook](../homework/hw1.html), [PDF](../homework/hw1.pdf))
+: **Optional practice**{: .label .label-green} **#1** ([Notebook](../homework/hw1.html), [PDF](../homework/hw1.pdf))

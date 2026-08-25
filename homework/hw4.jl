@@ -6,7 +6,9 @@ using InteractiveUtils
 
 # ╔═╡ 58ede0c2-c045-11f0-a4dd-a7fcc1ce281d
 md"""
-# Homework 4: Neural networks and PINNs
+# Optional Practice 4: Neural Networks and PINNs
+
+Optional and ungraded. No submission is required. Complete any problems that support your learning or final project.
 """
 
 # ╔═╡ f4edd850-b737-490c-8c4b-443437eefeaf

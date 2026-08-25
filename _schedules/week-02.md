@@ -9,4 +9,4 @@ Sep 1
 Sep 3
 : Finite Difference Approximation in Space
   : [Pluto Notebook](../assets/pluto_notebooks/Module3_FDA_space.html)
-: **Due**{: .label .label-purple}[**HW #1**](#)
+: **Suggested completion**{: .label .label-purple} **Optional Practice #1**

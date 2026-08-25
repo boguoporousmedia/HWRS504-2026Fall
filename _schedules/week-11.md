@@ -3,9 +3,9 @@ title: Week 11
 ---
 
 Nov 3
-: PINN
-  : [Pluto Notebook](../assets/pluto_notebooks/Module11_PINN.html)
+: Neural ODE
+  : [Pluto Notebook](../assets/pluto_notebooks/Module14_neural_ODE.html)
 
 Nov 5
-: Operator Learning
-  : [Pluto Notebook](../assets/pluto_notebooks/Module12_neural_operator_learning.html)
+: Kolmogorov-Arnold Networks
+  : [Pluto Notebook](../assets/pluto_notebooks/Module15_KAN.html)

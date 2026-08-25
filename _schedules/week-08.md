@@ -3,10 +3,9 @@ title: Week 08
 ---
 
 Oct 13
-: Particle methods
-  : [Pluto Notebook](../assets/pluto_notebooks/Module8_particle_methods_general_comments.html)
+: Final Project Planning Workshop
 
 Oct 15
-: Richards Equation
-  : [Pluto Notebook](../assets/pluto_notebooks/Module9_Richards_Eqn.html)
-: **Due**{: .label .label-purple}[**HW #3**](#)
+: Physics-Informed Neural Networks
+  : [Pluto Notebook](../assets/pluto_notebooks/Module11_PINN.html)
+: **Suggested completion**{: .label .label-purple} **Optional Practice #3**
