@@ -14,7 +14,7 @@ Missing a page.html & a home.html file in the _layout
 
 <h3>2. Lecture location:</h3>
 
-> [Harshbarger 203](https://maps.app.goo.gl/BkheyxAvZb3DP8rh6)
+> [Harshbarger 316F](https://maps.app.goo.gl/BkheyxAvZb3DP8rh6)
 
 
 <h3>3. Instructors:</h3> 
