@@ -18,6 +18,7 @@ description: Class resources.
 > - Moin, 2010
 > - Gerritsen, 2016
 > - Heath, 2002
+> - Other scientific machine learning materials posted on D2L
 
 
 <h3>3. Julia and Pluto:</h3>
