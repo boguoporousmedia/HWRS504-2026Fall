@@ -3,7 +3,8 @@ title: Week 13
 ---
 
 Nov 17
-: Topic TBD
+: Diffusion Models
+  : [Pluto Notebook](../assets/pluto_notebooks/Module16_diffusion_model.html)
 
 Nov 19
-: Topic TBD
+: Journal club + hands-on practice
