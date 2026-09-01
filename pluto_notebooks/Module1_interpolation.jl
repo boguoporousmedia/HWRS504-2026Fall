@@ -298,7 +298,7 @@ begin
 
 	# Cosmetic axes settings
 	xticks!(p, (xnodes, ["x₁","x₂","x₃","x₄","x₅"]))
-	ylims!(p, -0.4, 1.2)
+	ylims!(p, -0.5, 1.5)
 	xlabel!(p, "x")
 	ylabel!(p, "value")
 	title!(p, "Examples of Lagrange Basis Polynomials")
@@ -318,20 +318,16 @@ Near the left boundary ``[x_1,x_2]``, an interior point ``x^*\in(x_1,x_2)`` can 
 
 **Case A (overshoot):**
 ```math
-f(x^*) > f_1, \qquad f(x^*) > f_2 .
+\hat f(x^*) > \max(f_1,f_2).
 ```
 
 **Case B (undershoot):**
 ```math
-f(x^*) < f_1, \qquad \hat f(x^*) < f_2 .
+\hat f(x^*) < \min(f_1, f_2).
 ```
 
-A useful diagnostic is that the **signs of the derivatives** of ``f`` and its interpolant ``\hat f`` can be opposite near the boundary:
-```math
-\operatorname{sign}\!\big(f'(x)\big) = -\,\operatorname{sign}\!\big(\hat f'(x)\big), \qquad x \in [x_1,x_2].
-```
+Note that the **signs of the derivatives** of ``\hat f`` for Cases A and B are opposite in ``[x_1,x_2]``.
 
-*Assumptions:* We consider distinct nodes ``\{x_i\}`` (e.g., equally spaced) and a smooth underlying function ``f``. The symbol ``\hat f`` denotes the unique polynomial interpolant through the data ``\{(x_i,f_i)\}``.
 """
 
 
@@ -430,7 +426,7 @@ md"""
 **Example:** Piecewise **linear** interpolation through 4 points.
 
 *Locality:* Moving one node only changes the two segments adjacent to that node.  
-*Trade-off:* we give up smoothness at the joints (continuous ``C^0``, not ``C^1``).
+*Trade-off:* we give up smoothness at the joints.
 
 ```math
 \text{Piecewise linear } \Rightarrow \text{continuous (}C^0\text{), slopes can jump at nodes.}
